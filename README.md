@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png" alt="logo" width="140" height="140" align="right">
 
 # UnblockNeteaseMusic
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAspros-oss%2FUnblockNeteaseMusic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAspros-oss%2FUnblockNeteaseMusic?ref=badge_shield)
+
 
 解锁网易云音乐客户端变灰歌曲
 
@@ -189,3 +191,6 @@ match(418602084, ['qq', 'kuwo', 'migu']).then(console.log)
 ## 许可
 
 The MIT License
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAspros-oss%2FUnblockNeteaseMusic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAspros-oss%2FUnblockNeteaseMusic?ref=badge_large)
